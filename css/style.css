@@ -1,0 +1,29 @@
+h4{
+	font-size: 50px;
+	color: red;
+
+}
+
+.head1{
+	font-size: 50px;
+	color: black;
+    border: 5px solid green;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
+
+.myDiv{
+	border:  7px outset red;
+	background-color: lightblue;
+	text-align: center;
+}
+
+
